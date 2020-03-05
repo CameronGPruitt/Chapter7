@@ -1,0 +1,11 @@
+E:\IT-242\Chapter7\Chapter7\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.exe
+E:\IT-242\Chapter7\Chapter7\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.deps.json
+E:\IT-242\Chapter7\Chapter7\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.runtimeconfig.json
+E:\IT-242\Chapter7\Chapter7\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.runtimeconfig.dev.json
+E:\IT-242\Chapter7\Chapter7\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.dll
+E:\IT-242\Chapter7\Chapter7\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.pdb
+E:\IT-242\Chapter7\Chapter7\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.csprojAssemblyReference.cache
+E:\IT-242\Chapter7\Chapter7\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.AssemblyInfoInputs.cache
+E:\IT-242\Chapter7\Chapter7\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.AssemblyInfo.cs
+E:\IT-242\Chapter7\Chapter7\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.dll
+E:\IT-242\Chapter7\Chapter7\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.pdb
